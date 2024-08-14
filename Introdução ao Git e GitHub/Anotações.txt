@@ -1,0 +1,6 @@
+Comandos Git Bash
+- ls Lista o diretório
+- mkdir Cria uma pasta no local
+- Git init Inicializa o git no diretório
+- Git clone Clona um diretório do GitHub
+- Ctrl L Limpa o prompt do git bash
