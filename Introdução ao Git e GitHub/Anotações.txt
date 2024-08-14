@@ -4,3 +4,5 @@ Comandos Git Bash
 - Git init Inicializa o git no diretório
 - Git clone Clona um diretório do GitHub
 - Ctrl L Limpa o prompt do git bash
+- Git commit Commita o arquivo
+- Git push Empurra o arquivo para o repositório em nuvem (github)
